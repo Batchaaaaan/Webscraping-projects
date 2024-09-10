@@ -7,9 +7,12 @@ This is a Web scraping project that extracts job posting from https://www.jobstr
 -  The resulting dataset can be exported and downloaded as a CSV file, making it suitable for further analysis
 
 ### Tools
-- Python
+- Python  
   Python Library Used:
   - BeautifulSoup
   - requests
   - os
+  - datetime
   - time
+  - csv
+  
