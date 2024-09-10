@@ -8,15 +8,15 @@ This is a Web scraping project that extracts job posting from https://www.jobstr
 
 ### Information Extracted
 The following are the information extracted while using the scraper:
--Job title
--Company Name
--Company Location
--Work Arrangement(if remote)
--Salary
--Benefits
--Listing Date
--Date of Extraction
--Job Posting URL
+- Job title
+- Company Name
+- Company Location
+- Work Arrangement(if remote)
+- Salary
+- Benefits
+- Listing Date
+- Date of Extraction
+- Job Posting URL
 
 Note: Not all information have data on it since some fields in the website are not supplied.
 
