@@ -14,7 +14,7 @@ The following are the information extracted using the scraper:
   - Make Model
   - Year
   - Variant
-  - BodyType,
+  - BodyType
   - EngineSize
   - Transmission
   - FuelType
@@ -22,18 +22,20 @@ The following are the information extracted using the scraper:
   - Number of Doors
   - Location
   - DatePosted
-Features of the car
-- CruiseControl
-- LeatherUpholstery
-- PushStart
-- AirConditioning
-- EntertainmentSystem
-Safety features on the car
-- Airbag:Driver
-- Airbag:FrontPassenger
-- Airbag:Side
-- Airbag:Curtain
-- Airbag:Knee
-- ABS
-- Immobilizer
-- SecurityAlarm
+- Features of the car
+  - CruiseControl
+  - LeatherUpholstery
+  - PushStart
+  - AirConditioning
+  - EntertainmentSystem
+- Safety features on the car
+  - Airbag:Driver
+  - Airbag:FrontPassenger
+  - Airbag:Side
+  - Airbag:Curtain
+  - Airbag:Knee
+  - ABS
+  - Immobilizer
+  - SecurityAlarm
+ 
+  # Tools
