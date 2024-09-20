@@ -9,19 +9,19 @@ This is a webscraping projects that extracts used car in https://www.autodeal.co
 
 ## Information Extracted
 The following are the information extracted using the scraper:
-Keydetails
-- Price -
-- Make Model
-- Year
-- Variant
-- BodyType,
-- EngineSize
-- Transmission
-- FuelType
-- Mileage
-- Number of Doors
-- Location
-- DatePosted
+- Keydetails
+  - Price
+  - Make Model
+  - Year
+  - Variant
+  - BodyType,
+  - EngineSize
+  - Transmission
+  - FuelType
+  - Mileage
+  - Number of Doors
+  - Location
+  - DatePosted
 Features of the car
 - CruiseControl
 - LeatherUpholstery
