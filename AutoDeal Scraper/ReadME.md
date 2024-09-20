@@ -37,5 +37,11 @@ The following are the information extracted using the scraper:
   - ABS
   - Immobilizer
   - SecurityAlarm
- 
-  # Tools
+# Tools
+- Python
+  - BeautifulSoup
+  - requests
+  - csv
+  - datetime
+  - random
+  - time  
